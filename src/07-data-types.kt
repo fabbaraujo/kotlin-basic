@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    var name String
+    var name: String
     name = "Bob"
 
     var age: Int = 10
