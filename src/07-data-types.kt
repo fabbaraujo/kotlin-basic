@@ -10,5 +10,5 @@ fun main(args: Array<String>) {
     var percentage: Double = 90.78
     var gender: Char = 'M'
 
-    print(marks)
+    print(marks) 
 }
